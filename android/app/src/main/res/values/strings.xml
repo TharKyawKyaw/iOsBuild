@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">334752807587756</string>
+    <string name="facebook_app_name">I Love Liquor</string>
+    <string name="fb_login_protocol_scheme">fb334752807587756</string>
+</resources>
